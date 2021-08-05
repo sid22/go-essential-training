@@ -1,0 +1,10 @@
+2021/08/05 12:56:32 error open configpath/aconf2: no such file or directory
+cannot open configuration file
+main.readConfig
+	/Users/siddharth/Desktop/harry/go-essential-training/error_handling/package_errors.go:18
+main.main
+	/Users/siddharth/Desktop/harry/go-essential-training/error_handling/package_errors.go:46
+runtime.main
+	/usr/local/go/src/runtime/proc.go:225
+runtime.goexit
+	/usr/local/go/src/runtime/asm_amd64.s:1371 
